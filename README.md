@@ -19,8 +19,37 @@ A FECAP (Fundação Escola de Comércio Álvares Penteado), sempre comprometida 
 
 O Conexão FECAP foi criado com a missão de transformar vidas por meio da educação. Reconhecendo a importância da inclusão digital, o projeto busca:
 
-Desenvolvimento de Competências: Oferecer cursos de informática básica que abranjam desde a introdução ao uso do computador até habilidades mais avançadas, como o uso de planilhas eletrônicas, processamento de texto e navegação na internet.
+-Desenvolvimento de Competências: Oferecer cursos de informática básica que abranjam desde a introdução ao uso do computador até habilidades mais avançadas, como o uso de planilhas eletrônicas, processamento de texto e navegação na internet.
 
-Inclusão Digital: Promover a inclusão digital dos funcionários, permitindo que eles acompanhem as demandas tecnológicas do mercado de trabalho atual.
+-Inclusão Digital: Promover a inclusão digital dos funcionários, permitindo que eles acompanhem as demandas tecnológicas do mercado de trabalho atual.
 
-Oportunidades de Crescimento: Preparar os colaboradores para novas oportunidades de emprego e promoção dentro da própria FECAP, bem como no mercado de trabalho em geral.
+-Oportunidades de Crescimento: Preparar os colaboradores para novas oportunidades de emprego e promoção dentro da própria FECAP, bem como no mercado de trabalho em geral.
+
+## Front-End:
+
+React.Js
+
+CSS
+
+## Back-End:
+
+MySQL
+
+Node.js
+
+Azure
+
+## Links de interesse:
+
+<a href="https://edufecap.sharepoint.com/:w:/r/sites/Gesto-CC/_layouts/15/Doc.aspx?sourcedoc=%7B3FA25E9C-4A50-4B7B-806D-690D73432F30%7D&file=GRUPO%2002%20-%20CCOMP%20-%20Projetos%20de%20Extensa%CC%83o.docx&action=default&mobileredirect=true">Projeto de Extensão</a>
+
+
+<a href="https://trello.com/b/8GOmnHzM/grupo2">Trello</a> 
+
+<a href="https://www.figma.com/design/GjQi5D9hrIoN83V4G0zvkM/Wireframing-in-Figma?t=T6ejMXieSaXFOc1Q-0">Figma</a>
+
+<a href="https://github.com/Heysatirohere/2semestreProjeto">GITHUB Principal</a>
+
+
+
+
