@@ -15,7 +15,7 @@
 
 A FECAP (Fundação Escola de Comércio Álvares Penteado), sempre comprometida com a educação e o desenvolvimento de seus colaboradores, lançou um projeto inovador e transformador: o Conexão FECAP. Este projeto visa proporcionar educação em informática básica aos funcionários que ocupam cargos de nível operacional dentro da instituição. A iniciativa tem como principal objetivo capacitar esses colaboradores, ampliando suas possibilidades de crescimento profissional, tanto dentro quanto fora da FECAP.
 
-###Objetivos
+## Objetivos
 
 O Conexão FECAP foi criado com a missão de transformar vidas por meio da educação. Reconhecendo a importância da inclusão digital, o projeto busca:
 
