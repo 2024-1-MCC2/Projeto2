@@ -41,9 +41,6 @@ Azure
 
 ## Links de interesse:
 
-<a href="https://edufecap.sharepoint.com/:w:/r/sites/Gesto-CC/_layouts/15/Doc.aspx?sourcedoc=%7B3FA25E9C-4A50-4B7B-806D-690D73432F30%7D&file=GRUPO%2002%20-%20CCOMP%20-%20Projetos%20de%20Extensa%CC%83o.docx&action=default&mobileredirect=true">Projeto de Extensão</a>
-
-
 <a href="https://trello.com/b/8GOmnHzM/grupo2">Trello</a> 
 
 <a href="https://www.figma.com/design/GjQi5D9hrIoN83V4G0zvkM/Wireframing-in-Figma?t=T6ejMXieSaXFOc1Q-0">Figma</a>
