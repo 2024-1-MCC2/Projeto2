@@ -12,3 +12,9 @@
 # Getting Started with Create React App
 
 ## Descrição
+Objetivos do Projeto
+O Conexão FECAP foi criado com a missão de transformar vidas por meio da educação. Reconhecendo a importância da inclusão digital, o projeto busca:
+
+Desenvolvimento de Competências: Oferecer cursos de informática básica que abranjam desde a introdução ao uso do computador até habilidades mais avançadas, como o uso de planilhas eletrônicas, processamento de texto e navegação na internet.
+Inclusão Digital: Promover a inclusão digital dos funcionários, permitindo que eles acompanhem as demandas tecnológicas do mercado de trabalho atual.
+Oportunidades de Crescimento: Preparar os colaboradores para novas oportunidades de emprego e promoção dentro da própria FECAP, bem como no mercado de trabalho em geral.
