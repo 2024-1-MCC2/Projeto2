@@ -47,7 +47,7 @@ Azure
 
 <a href="https://github.com/Heysatirohere/2semestreProjeto">GITHUB Principal</a>
 
-## referência para integrar com banco de dados:
+## Referência para integrar com banco de dados:
 
 <a href="https://www.youtube.com/watch?v=e0He6sCiQT8">YouTube</a>
 
